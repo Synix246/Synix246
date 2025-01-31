@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Synix</h1>
 <h3 align="center">I'm a developer from Germany</h3>
 
-- 🔭 I’m currently working on **Nexus Perfomence**
+- 🔭 I’m currently working on **Astro Perfomence**
 
 - 👨‍💻 All of my projects are available at **Github.com**
 
